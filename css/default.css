@@ -1,5 +1,12 @@
-<head>
-    <title>CSS</title>
-    <link rel=“stylesheet” href=“css/default.css” type=“text/css”>
-</head>
-
+@charset "UTF-8"; 
+h1{
+    font-size: 1.75em;
+}
+h2{
+    font-size: 1.25em;
+}
+p{
+    font-size: 0.8em;
+}
+li{
+    font-size: 0.8em;
