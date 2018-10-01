@@ -7,9 +7,6 @@ h1{
         color: #ff0000;
       text-align:center;
 }
-h2{
-    font-size: 1.25em;
-}
 h3{
     font-size: 1.00em;
 }
@@ -19,3 +16,4 @@ p{
 }
 li{
     font-size: 0.8em;
+}
