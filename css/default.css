@@ -6,6 +6,12 @@ h1{
     font-size: 5.75em;
         color: #ff0000;
       text-align:center;
+          color: #ffffff;
+    border: #94c8b1 1px dotted;
+    border-left:#d0e35b 10px solid;
+    margin-bottom: 0; 
+    padding: 5px 20px;
+
 }
 h3{
     font-size: 1.00em;
